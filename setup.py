@@ -4,12 +4,12 @@ import sys
 
 
 setup(
-    name="StatSkyNotes",
+    name="pystats",
     version="0.1.0",
     author="David Raymond",
     author_email="david.raymond.kearney@gmail.com",
     description="A short description of your package",
-    packages=["statsky_notes"],
+    packages=["pystats"],
     install_requires=[
         "numpy",
         "scipy",
